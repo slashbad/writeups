@@ -1,0 +1,6 @@
+- janken vs kurenaif: server.py
+- witches_symmetric_exam: problem.py
+- insufficient: dist.tar.gz
+- this_is_not_lsb: problem.py
+- BBB: dist.tar.gz
+- pqpq: output.txt, problem.py
